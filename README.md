@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer | Full-Stack Developer | Microservices Architect**
 
-[GitHub](#https://ahtazaz.github.io/resumes/) • [Email](mailto:ahtazazahmad1@gmail.com) • [LinkedIn](#https://www.linkedin.com/in/ahtazaz/)
+[Website](https://ahtazaz.github.io/resumes/) • [Email](mailto:ahtazazahmad1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ahtazaz/)
 
 ---
 
