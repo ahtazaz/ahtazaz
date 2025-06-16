@@ -1,111 +1,124 @@
-👋 Hi there, I'm Ahtazaz Ahmad Mughal
-🚀 Senior Software Engineer | Full-Stack Developer | Microservices Architect
-GitHub • Email • LinkedIn
+# 👋 Hi there, I'm Ahtazaz Ahmad Mughal
 
+🚀 **Senior Software Engineer | Full-Stack Developer | Microservices Architect**
 
-🎓 About Me
-🏆 Gold Medalist in Computer Science (MCS) with 5+ years of experience building enterprise-grade applications
-Currently working at NextBridge Ltd. as a Senior Software Engineer, specializing in scalable microservices architecture and enterprise communication platforms.
-🔧 What I Do
-🏗️  Backend Architecture    → Crafting scalable microservices with NestJS, CQRS patterns & event sourcing
-⚛️  Frontend Development    → Building responsive web applications with React.js and TypeScript  
-🔐  Enterprise Security     → Advanced authentication (Ory Kratos) & authorization (Ory Keto/Zanzibar)
-🐳  DevOps & Deployment     → Docker containerization, CI/CD pipelines & cloud infrastructure
-💼 Current Focus
+[GitHub](#https://ahtazaz.github.io/resumes/) • [Email](mailto:ahtazazahmad1@gmail.com) • [LinkedIn](#https://www.linkedin.com/in/ahtazaz/)
 
-🏢 Building modern tenant management systems with multi-tenant architecture
-🎓 Developing scalable school management platforms with Laravel & React.js
-🔒 Creating enterprise communication platforms with end-to-end encryption
-📡 Implementing 5TB+ file transfer systems with real-time capabilities
-🌍 Building eIDAS-compliant solutions for European markets
+---
 
-🛠️ Technology Stack
-Backend Technologies
-- NestJS          • Node.js         • Express         • ASP.NET
-- TypeScript      • JavaScript      • Python          
-Frontend Technologies
-- React.js        • TypeScript      • JavaScript      • HTML5/CSS3
-- Inertia.js               
-Databases & Storage
-- PostgreSQL      • MySQL           • MongoDB         • Redis
-- EventStoreDB    • Prisma ORM
-DevOps & Infrastructure
-- Docker          • Git             • Bitbucket Pipelines
-- Ubuntu/CentOS   • Windows Server  • CI/CD
-Specialized Technologies
-- Microservices   • CQRS            • Event Sourcing  • RBAC
-- Ory Kratos      • Ory Keto        • Socket.io       • BullMQ
-- MSMQ           • RabbitMQ        • Kafka
-🌟 Notable Achievements
-🏆  Academic Excellence     → Gold Medalist with 3.85/4.0 CGPA
-🏗️  Enterprise Architecture → Led development of platforms serving thousands of users  
-🔄  Innovation             → Implemented CQRS and event sourcing in production
-🌍  Compliance             → Built eIDAS-compliant systems for European markets
-📡  Performance            → Engineered 5TB+ file transfer capabilities
-🔐  Security               → Implemented end-to-end encryption for enterprise communications
-🚀 Featured Projects
-🔒 Enterprise Communication Platform
-NextBridge Ltd.
+## 🎓 About Me
 
-Secure messaging with 5TB file sharing capabilities
-QERDS mailing (eIDAS-compliant) for legally binding communications
-End-to-end encryption and enterprise-grade security
-Tech Stack: NestJS, React.js, TypeScript, Prisma ORM, CI/CD
+🏆 **Gold Medalist in Computer Science (MCS)** with 5+ years of experience building enterprise-grade applications.
 
-🎓 Multi-Tenant School Management System
-NextBridge Ltd.
+💼 **Current Position:** Senior Software Engineer at **NextBridge Ltd.**
 
-React.js frontend with Laravel backend using Inertia.js
-Results and reporting engine with nested grading structures
-Tenant-based theming and role-based access control
-Tech Stack: React.js, Inertia.js, Laravel, PHP, JavaScript
+⚡ **Specialties:** Scalable microservices architecture, enterprise communication platforms, and secure systems.
 
-🏢 Modern Tenant Management System
-NextBridge Ltd.
+---
 
-Microservices architecture with NestJS, CQRS & event sourcing
-Ory Kratos/Keto integration for advanced authentication & authorization
-PostgreSQL + EventStoreDB for reliable data management
-Tech Stack: NestJS, PostgreSQL, EventStoreDB, Docker, TypeScript, Prisma ORM
+## 🔧 What I Do
 
+- 🏗️ **Backend Architecture:** Scalable microservices with NestJS, CQRS patterns & event sourcing  
+- ⚛️ **Frontend Development:** Responsive web apps with React.js and TypeScript  
+- 🔐 **Enterprise Security:** Advanced authentication (Ory Kratos) & authorization (Ory Keto/Zanzibar)  
+- 🐳 **DevOps & Deployment:** Docker, CI/CD pipelines, cloud infrastructure  
 
-📱 Notification Management System
-Agile Vectors
+---
 
-Multi-channel messaging platform (Email, SMS, In-app)
-Dynamic templates and scheduled notification delivery
-MSMQ implementation for reliable message queuing
-Tech Stack: React, .NET, MSMQ, Windows Server
+## 💼 Current Focus
 
-💡 Core Expertise
-Architecture & Design Patterns
+- 🏢 Building modern tenant management systems with multi-tenant architecture  
+- 🎓 Developing scalable school management platforms with Laravel & React.js  
+- 🔒 Creating enterprise communication platforms with end-to-end encryption  
+- 📡 Implementing 5TB+ file transfer systems with real-time capabilities  
+- 🌍 Building eIDAS-compliant solutions for European markets  
 
-Microservices Architecture - Designing scalable, distributed systems
-CQRS & Event Sourcing - Implementing complex business logic with data integrity
-Multi-Tenant Architecture - Building SaaS platforms with tenant isolation
-Domain-Driven Design - Structuring complex business domains
+---
 
-Security & Compliance
+## 🛠️ Technology Stack
 
-Advanced Authentication - OAuth2, JWT, MFA implementation
-Authorization Systems - RBAC, Zanzibar-style permissions
-Data Encryption - End-to-end encryption for sensitive communications
-Compliance Standards - eIDAS, GDPR-compliant systems
+**Backend:**  
+NestJS • Node.js • Express • ASP.NET  
+TypeScript • JavaScript • Python  
 
-Performance & Scalability
+**Frontend:**  
+React.js • TypeScript • JavaScript • HTML5/CSS3 • Inertia.js  
 
-High-Volume Data Processing - Handling 5TB+ file transfers
-Real-Time Systems - WebSocket implementations for live features
-Database Optimization - Query optimization and schema design
-Caching Strategies - Redis implementation for performance
+**Databases & Storage:**  
+PostgreSQL • MySQL • MongoDB • Redis  
+EventStoreDB • Prisma ORM  
 
-📫 Contact Information
-📧 Email: ahtazazahmad1@gmail.com
-📱 Phone: +92 345 1525359
-📍 Location: Islamabad / Lahore, Pakistan
-🌐 Remote: Available for remote opportunities worldwide
+**DevOps & Infrastructure:**  
+Docker • Git • Bitbucket Pipelines  
+Ubuntu/CentOS • Windows Server • CI/CD  
 
+**Specialized Tech:**  
+Microservices • CQRS • Event Sourcing • RBAC  
+Ory Kratos • Ory Keto • Socket.io • BullMQ  
+MSMQ • RabbitMQ • Kafka  
 
-💡 Building scalable solutions that solve real-world problems while maintaining the highest standards of security and performance.
-⚡ Fun fact: I love tackling complex architectural challenges and turning them into elegant, maintainable solutions!
-Available for: Full-time  • Consulting • Remote Work
+---
+
+## 🌟 Notable Achievements
+
+🏆 **Academic Excellence:** Gold Medalist (CGPA 3.85/4.0)  
+🏗️ **Enterprise Architecture:** Led platforms serving thousands of users  
+🔄 **Innovation:** CQRS + event sourcing in production  
+🌍 **Compliance:** eIDAS-compliant systems for Europe  
+📡 **Performance:** Engineered 5TB+ file transfer  
+🔐 **Security:** End-to-end encryption for enterprise communications  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔒 Enterprise Communication Platform (NextBridge Ltd.)
+- Secure messaging with 5TB+ file sharing  
+- QERDS mailing (eIDAS-compliant)  
+- End-to-end encryption  
+- **Tech:** NestJS, React.js, TypeScript, Prisma ORM, CI/CD  
+
+### 🎓 Multi-Tenant School Management System (NextBridge Ltd.)
+- React.js + Laravel + Inertia.js  
+- Nested grading, tenant theming, RBAC  
+- **Tech:** React.js, Inertia.js, Laravel, PHP  
+
+### 🏢 Modern Tenant Management System (NextBridge Ltd.)
+- Microservices, CQRS, Event Sourcing  
+- Ory Kratos/Keto for auth  
+- PostgreSQL + EventStoreDB  
+- **Tech:** NestJS, Docker, Prisma ORM  
+
+### 📱 Notification Management System (Agile Vectors)
+- Multi-channel (Email, SMS, In-app)  
+- MSMQ for reliable queuing  
+- **Tech:** React, .NET, MSMQ, Windows Server  
+
+---
+
+## 💡 Core Expertise
+
+**Architecture & Design:**  
+Microservices • CQRS & Event Sourcing • Multi-Tenant SaaS • DDD  
+
+**Security & Compliance:**  
+OAuth2 • JWT • MFA • RBAC • Zanzibar-style permissions • eIDAS / GDPR  
+
+**Performance & Scalability:**  
+High-volume data processing • WebSockets • DB optimization • Redis caching  
+
+---
+
+## 📫 Contact
+
+📧 [ahtazazahmad1@gmail.com](mailto:ahtazazahmad1@gmail.com)  
+📱 +92 345 1525359  
+📍 Islamabad / Lahore, Pakistan  
+🌐 Open to remote opportunities worldwide  
+
+---
+
+💡 _Building scalable solutions that solve real-world problems while maintaining the highest standards of security and performance._  
+⚡ _Fun fact: I love tackling complex architectural challenges and turning them into elegant, maintainable solutions!_
+
+**Available for:** Full-time • Consulting • Remote Work
